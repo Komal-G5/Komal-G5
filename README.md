@@ -1,83 +1,107 @@
-<h1 align="center">Hi 👋, I'm Komal Garg</h1>
-<h3 align="center">💻 Full Stack Developer | AI/ML Engineer | NLP & Computer Vision | DevOps Ready | Cloud Native</h3>
+<h1 align="center">Hi, I'm Komal Garg 👋</h1>
+
+<p align="center">
+  <b>Data Analyst | Python | SQL | Power BI | Excel</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/Komal-G5">
-    <img src="https://komalgarg.dev/banner.svg" alt="Komal Garg GitHub Banner" width="80%">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:gargkomal3130@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
+## About
 
-I'm a passionate and detail-oriented developer focused on building intelligent, scalable, and impactful tech solutions.  
-Currently exploring opportunities in Full Stack Development, AI/ML Engineering, and NLP-powered applications.  
-Driven by empathy and innovation, I enjoy turning ideas into reality with clean code and creative UI/UX.
+I'm a B.Tech graduate in Electronics & Communication Engineering with a minor in Computer Science Engineering, focused on building my career in Data Analytics and Business Intelligence.
 
----
+I work with Python, SQL, Excel and Power BI to clean, analyze and visualize data, identify patterns and generate actionable insights.
 
-### 🚀 Tech Stack & Tools
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI/ML & NLP**  
-`Scikit-learn`, `TensorFlow`, `OpenCV`, `spaCy`, `Hugging Face`, `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Emotion Detection`
-
-**Tools & DevOps**  
-Git · GitHub · Docker · GitHub Actions · Postman · VS Code · AWS (EC2, S3) · GCP · CI/CD · JIRA · Agile/Scrum
+I'm particularly interested in solving business problems through data and building clear, practical dashboards and analytical solutions.
 
 ---
 
-### 📌 Projects (Highlights)
+## Skills
 
-🔹 **Emotion-Aware AI Virtual Healthcare Assistant**  
-Facial + Voice + Text emotion detection using Deep Learning with AI-based health suggestions.  
-> *Tech:* Python · Flask · OpenCV · React · MongoDB · NLP
+**Programming & Data Analysis**
 
-🔹 **AI-Powered Task Assistant**  
-Voice/text assistant with Gemini AI to perform real-time smart actions and information fetch.  
-> *Tech:* Flask · Gemini API · React · Express.js
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-🔹 **MERN E-Commerce Web App**  
-Scalable eCommerce app with auth, product filtering, cart logic, and admin dashboard.  
-> *Tech:* MongoDB · Express.js · React.js · Node.js
+**Business Intelligence & Visualization**
 
-🔹 **Data Visualization Dashboard**  
-Visual analytics using Python libraries and integrated React dashboards.  
-> *Tech:* Matplotlib · Seaborn · Plotly · React
+`Power BI` `DAX` `Power Query` `Advanced Excel` `Data Visualization` `Dashboard Development`
+
+**Databases**
+
+`MySQL` `PostgreSQL`
+
+**Analytics**
+
+`Data Cleaning` `EDA` `Data Wrangling` `Data Transformation`
+`Statistical Analysis` `Feature Engineering` `Predictive Modeling`
+
+**Tools**
+
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Flask`
 
 ---
 
-### 📈 GitHub Stats
+## Featured Projects
+
+### E-Commerce Sales & Customer Analytics
+
+Analysis of sales and customer transaction data to understand revenue performance, product trends, customer segments and business KPIs.
+
+**Tech:** Python · SQL · Pandas · Excel · Power BI · Power Query
+
+---
+
+### Customer Churn & Retention Analysis
+
+Analyzed customer subscription and transaction data to identify churn patterns, retention drivers and high-risk customer segments.
+
+**Tech:** Python · SQL · Pandas · NumPy · Power BI · Scikit-learn
+
+---
+
+### Financial Risk & Loan Default Analysis
+
+Analyzed borrower and loan data to identify default patterns, customer risk segments and financial trends.
+
+**Tech:** Python · SQL · Pandas · NumPy · Power BI · Scikit-learn
+
+---
+
+## What I'm Currently Working On
+
+- Improving advanced SQL and data analysis skills
+- Building interactive Power BI dashboards
+- Strengthening Python for data analytics
+- Practicing statistics and predictive analytics
+- Developing portfolio projects based on real-world business problems
+
+---
+
+## Education
+
+**B.Tech – Electronics & Communication Engineering**  
+Minor: Computer Science Engineering  
+Guru Gobind Singh Indraprastha University (GGSIPU)  
+CGPA: 7.6 / 10
+
+---
+
+## Connect
+
+📧 **Email:** gargkomal3130@gmail.com  
+💻 **GitHub:** [Komal-G5](https://github.com/Komal-G5)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal-G5&show_icons=true&theme=tokyonight" alt="Komal's GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-G5&layout=compact&theme=tokyonight" alt="Top Languages" width="47%"/>
+  <i>Turning data into insights.</i>
 </p>
-
----
-
-### 📫 Connect With Me
-- GitHub: [Komal-G5](https://github.com/Komal-G5)  
-- Email: [gargkomal3130@gmail.com](mailto:gargkomal3130@gmail.com)
-
----
-
-### 🌍 Always Learning | 💡 Open to Opportunities | 🤝 Let's Collaborate
