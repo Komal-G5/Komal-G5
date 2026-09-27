@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Komal Garg 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Python | SQL | Power BI | Excel</b>
+  <b>Data Analyst · Data Science · Business Intelligence</b>
+</p>
+
+<p align="center">
+  Turning raw data into insights, analytical solutions, and business decisions.
 </p>
 
 <p align="center">
@@ -15,93 +19,177 @@
 
 ---
 
-## About
+## 👩‍💻 About
 
-I'm a B.Tech graduate in Electronics & Communication Engineering with a minor in Computer Science Engineering, focused on building my career in Data Analytics and Business Intelligence.
+B.Tech graduate in Electronics & Communication Engineering with a minor in Computer Science Engineering, focused on building a career across **Data Analytics, Business Intelligence, and Data Science**.
 
-I work with Python, SQL, Excel and Power BI to clean, analyze and visualize data, identify patterns and generate actionable insights.
+I work across the analytics lifecycle — from **raw data and SQL queries to data cleaning, exploratory analysis, statistical reasoning, visualization, KPI reporting, and business insights**.
 
-I'm particularly interested in solving business problems through data and building clear, practical dashboards and analytical solutions.
-
----
-
-## Skills
-
-**Programming & Data Analysis**
-
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-**Business Intelligence & Visualization**
-
-`Power BI` `DAX` `Power Query` `Advanced Excel` `Data Visualization` `Dashboard Development`
-
-**Databases**
-
-`MySQL` `PostgreSQL`
-
-**Analytics**
-
-`Data Cleaning` `EDA` `Data Wrangling` `Data Transformation`
-`Statistical Analysis` `Feature Engineering` `Predictive Modeling`
-
-**Tools**
-
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Flask`
+Currently strengthening my capabilities in **advanced SQL, Python analytics, Power BI, statistics, machine learning, and AI-assisted analytical workflows**.
 
 ---
 
-## Featured Projects
+## ⚡ Analytics Toolkit
 
-### E-Commerce Sales & Customer Analytics
-
-Analysis of sales and customer transaction data to understand revenue performance, product trends, customer segments and business KPIs.
-
-**Tech:** Python · SQL · Pandas · Excel · Power BI · Power Query
-
----
-
-### Customer Churn & Retention Analysis
-
-Analyzed customer subscription and transaction data to identify churn patterns, retention drivers and high-risk customer segments.
-
-**Tech:** Python · SQL · Pandas · NumPy · Power BI · Scikit-learn
+| Area               | Technologies                                                    |
+| ------------------ | --------------------------------------------------------------- |
+| **Languages**      | Python · SQL                                                    |
+| **Data Analysis**  | Pandas · NumPy                                                  |
+| **Visualization**  | Matplotlib · Seaborn · Power BI                                 |
+| **BI & Reporting** | DAX · Power Query · Advanced Excel                              |
+| **Databases**      | SQLite · MySQL · PostgreSQL                                     |
+| **Statistics**     | EDA · Descriptive Statistics · Correlation Analysis             |
+| **Data Science**   | Feature Engineering · ML Fundamentals · Predictive Analytics    |
+| **Workflow**       | Jupyter Notebook · Git · GitHub · VS Code                       |
+| **AI Workflow**    | AI-assisted analysis · SQL assistance · analytical productivity |
 
 ---
 
-### Financial Risk & Loan Default Analysis
+## 🔍 What I Build
 
-Analyzed borrower and loan data to identify default patterns, customer risk segments and financial trends.
+**DATA → ANALYSIS → INSIGHT → DECISION**
 
-**Tech:** Python · SQL · Pandas · NumPy · Power BI · Scikit-learn
-
----
-
-## What I'm Currently Working On
-
-- Improving advanced SQL and data analysis skills
-- Building interactive Power BI dashboards
-- Strengthening Python for data analytics
-- Practicing statistics and predictive analytics
-- Developing portfolio projects based on real-world business problems
+* Transform messy datasets into analysis-ready data
+* Integrate data from multiple tables and sources
+* Identify patterns, trends, anomalies, and business drivers
+* Build meaningful KPIs and analytical metrics
+* Segment customers and business entities
+* Analyze revenue, risk, retention, and performance
+* Communicate findings through visualizations and dashboards
+* Translate analytical results into actionable business insights
 
 ---
 
-## Education
+## 📊 Featured Analytics Projects
 
-**B.Tech – Electronics & Communication Engineering**  
-Minor: Computer Science Engineering  
-Guru Gobind Singh Indraprastha University (GGSIPU)  
-CGPA: 7.6 / 10
+### 🔎 Customer Churn & Retention Analysis
+
+**End-to-end customer analytics | Python · SQL · SQLite**
+
+Analyzed customer, subscription, support, satisfaction, churn-risk, and revenue data to understand **why customers churn, which segments carry higher risk, and how churn translates into revenue exposure**.
+
+**Highlights**
+
+* Multi-table data integration
+* Data cleaning & transformation
+* Feature engineering
+* Churn & retention KPIs
+* Customer risk segmentation
+* Contract & subscription analysis
+* CSAT and complaint analysis
+* Revenue-at-risk analysis
+* Business-focused visual analysis
+
+🔗 **[Explore the Project →](https://github.com/Komal-G5/customer-churn-analysis)**
 
 ---
 
-## Connect
+### 🛒 E-Commerce Sales & Customer Analytics
 
-📧 **Email:** gargkomal3130@gmail.com  
+**Business & customer analytics | Python · SQL · Excel · Power BI**
+
+Analyzed e-commerce transaction data to understand **sales performance, customer behavior, product trends, revenue patterns, and business KPIs**.
+
+**Focus Areas**
+
+* Sales performance
+* Customer behavior
+* Revenue analysis
+* Product trends
+* Customer segmentation
+* KPI reporting
+* Dashboard & visualization
+
+---
+
+### 💳 Financial Risk & Loan Default Analysis
+
+**Risk & financial analytics | Python · SQL · Power BI**
+
+Analyzed borrower and loan data to explore **default patterns, customer risk segments, financial trends, and factors associated with loan outcomes**.
+
+**Focus Areas**
+
+* Loan performance
+* Default analysis
+* Risk segmentation
+* Customer profiling
+* Financial KPIs
+* Trend analysis
+* Business insights
+
+---
+
+## 📈 Analytical Thinking
+
+I approach analytics with a business-first mindset:
+
+```text
+Business Question
+       ↓
+Understand the Data
+       ↓
+Clean & Validate
+       ↓
+Explore Patterns
+       ↓
+Define KPIs
+       ↓
+Analyze Drivers
+       ↓
+Visualize Findings
+       ↓
+Communicate Insights
+```
+
+---
+
+## 🧩 Areas of Interest
+
+`Data Analytics`
+`Business Intelligence`
+`Customer Analytics`
+`Business & Revenue Analytics`
+`Exploratory Data Analysis`
+`Statistical Analysis`
+`Data Visualization`
+`Machine Learning`
+`Predictive Analytics`
+`AI-Assisted Analytics`
+
+---
+
+## 🚀 Currently Exploring
+
+* Advanced SQL: CTEs · Window Functions · Subqueries
+* Python for analytics & automation
+* Power BI & DAX
+* Statistics for analytical decision-making
+* Machine learning fundamentals
+* Predictive analytics
+* AI-assisted data workflows
+* Real-world business analytics projects
+
+---
+
+## 🎓 Education
+
+**B.Tech — Electronics & Communication Engineering**
+Minor: Computer Science Engineering
+Guru Gobind Singh Indraprastha University (GGSIPU)
+**CGPA: 7.6 / 10**
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [gargkomal3130@gmail.com](mailto:gargkomal3130@gmail.com)
+
 💻 **GitHub:** [Komal-G5](https://github.com/Komal-G5)
 
 ---
 
 <p align="center">
-  <i>Turning data into insights.</i>
+  <b>Data • Analysis • Insights • Impact</b>
 </p>
+
